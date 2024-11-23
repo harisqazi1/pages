@@ -1,8 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Portfolio Blog",
+    "title": "Haris's Blog",
     "home_page_url": "https://www.harisqazi.com/blog",
-    "description": "Portfolio Blog",
+    "description": "Blog posts primarily based on the work I post in the documentation section.",
     "items": [
         {
             "id": "https://www.harisqazi.com/blog/initial-blog-post",

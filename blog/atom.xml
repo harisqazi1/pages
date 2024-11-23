@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.harisqazi.com/blog</id>
-    <title>Portfolio Blog</title>
+    <title>Haris's Blog</title>
     <updated>2024-11-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.harisqazi.com/blog"/>
-    <subtitle>Portfolio Blog</subtitle>
+    <subtitle>Blog posts primarily based on the work I post in the documentation section.</subtitle>
     <icon>https://www.harisqazi.com/img/HQ-Logo-Dark.png</icon>
-    <rights>Copyright © 2024 Facebook, Inc.</rights>
+    <rights>Copyright © 2024 Haris Qazi</rights>
     <entry>
         <title type="html"><![CDATA[Initial Blog Post]]></title>
         <id>https://www.harisqazi.com/blog/initial-blog-post</id>
