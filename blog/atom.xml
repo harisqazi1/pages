@@ -2,12 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.harisqazi.com/blog</id>
     <title>Haris's Blog</title>
-    <updated>2024-11-28T00:00:00.000Z</updated>
+    <updated>2025-03-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.harisqazi.com/blog"/>
     <subtitle>Blog posts primarily based on the work I post in the documentation section.</subtitle>
     <icon>https://www.harisqazi.com/img/HQ-Logo-Dark.png</icon>
     <rights>Copyright © 2025 Haris Qazi</rights>
+    <entry>
+        <title type="html"><![CDATA[Disk Labels and Containers]]></title>
+        <id>https://www.harisqazi.com/blog/disk-labels-and-containers</id>
+        <link href="https://www.harisqazi.com/blog/disk-labels-and-containers"/>
+        <updated>2025-03-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the last blog post, I've been working on a project I can't discuss too much about at the moment. This project has taken up the majority of my time so far. However, I have worked on some items that are more in the public realm.]]></summary>
+        <content type="html"><![CDATA[<p>Since the last blog post, I've been working on a project I can't discuss too much about at the moment. This project has taken up the majority of my time so far. However, I have worked on some items that are more in the public realm.</p>
+<p>I wanted to learn a low-level language for a while now. It ended up being a choice of C vs Rust. Eventually, I settled on Rust seeing how DARPA (Defense Advanced Research Projects Agency) and a lot of other projects were prioritizing Rust due to its memory-safe nature. Now that the language was chosen, the next step was using that language for a personal use case: disk labels. When you start data hoarding, you end up with a lot of drives. Keeping track of which drive has what password gets complicated when you have drives that look or are similar. One solution to this is to have code words labeled on your drives to identify them more easily. As such, I wrote a program (inspired by the NSA's covert operation code words) that can generate those code words for you, the caveat being that the output format is one that works for me. The code, as always, is open source: <a href="https://codeberg.org/Harisfromcyber/Media/src/branch/main/label_it" target="_blank" rel="noopener noreferrer">https://codeberg.org/Harisfromcyber/Media/src/branch/main/label_it</a>. The steps to run the code and what it fully does are in the README.md for that repository.</p>
+<p>One smaller update to the site was done under the "Configurations" category. I have now added containerized applications that I use there: <a href="https://www.harisqazi.com/configurations/containers" target="_blank" rel="noopener noreferrer">https://www.harisqazi.com/configurations/containers</a>. As a Linux user, a lot of the technical solutions you use end up being really easy due to the "flat" nature of Linux (i.e. you, the user, can access any aspect of the OS - easily). Due to this, the list of containerized applications is low. As with other configurations listed on the site, I will update those as my own tech stack changes.</p>
+<p>- Haris</p>]]></content>
+        <author>
+            <name>Haris Qazi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Gaming and Backups]]></title>
         <id>https://www.harisqazi.com/blog/gaming-and-backups</id>
